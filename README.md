@@ -33,5 +33,5 @@ Output: [0]
 execute o seguinte comando:
 
 ```bash
-$ node moveZeros/index.js
+$ node moveZeroes/index.js
 ```
