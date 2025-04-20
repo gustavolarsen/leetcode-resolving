@@ -1,0 +1,12 @@
+{
+  "name": "leetcode-resolving",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "moveZeroes": "node moveZeroes"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
