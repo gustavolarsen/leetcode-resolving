@@ -6,7 +6,7 @@ Este repositório contém soluções para problemas do LeetCode, organizadas e d
 
 | Problema                  | Dificuldade                            |
 | ------------------------- | -------------------------------------- |
-| [Move Zeros](#move-zeros) | <span style="color:green">Fácil</span> |
+| [Move Zeros](#move-zeros) | Fácil |
 
 <hr />
 
